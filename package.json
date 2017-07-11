@@ -1,0 +1,24 @@
+{
+  "name": "banded2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Deegan",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-inline-css": "^3.1.0",
+    "gulp-sass": "^3.1.0",
+    "inky": "^1.3.7",
+    "lazypipe": "^1.0.1",
+    "panini": "^1.4.0",
+    "rimraf": "^2.6.1",
+    "siphon-media-query": "^1.0.0",
+    "yargs": "^8.0.2"
+  }
+}
